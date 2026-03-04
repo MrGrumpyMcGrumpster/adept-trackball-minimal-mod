@@ -1,0 +1,3 @@
+You have reached my fork of the [Ploopy Adept Trackball](https://github.com/ploopyco/adept-trackball) repository, inside of which you will find my Minimal Case Mod.  As these are just hardware modification to the existing Adept internals, all files will be located in the [Hardware/mechanicals-minimal-mod folder](https://github.com/MrGrumpyMcGrumpster/adept-trackball-minimal-mod/tree/master/hardware/mechanicals-minimal-mod).
+
+![Assembled](hardware/mechanicals-minimal-mod/Minimal_Adept_3.jpg)
