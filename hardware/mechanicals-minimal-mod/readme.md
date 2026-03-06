@@ -1,6 +1,6 @@
 # The Ploopy Adept Trackball Minimal Mod
 
-![](Caution.png)
+![](warning.png)
 
 
 This is the home of the "Minimal" case and board modification for the Ploopy Adept trackball.  I couldn't get
