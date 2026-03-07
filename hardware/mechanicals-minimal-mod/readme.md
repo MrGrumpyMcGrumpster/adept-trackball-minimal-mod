@@ -13,7 +13,7 @@ AliExpress worked the best (for a while).  They're fairly smooth, and the noise 
 without maintenance. Most likely due to direct transfer of grit and grime to the enclosed support bearings.  I'm
 a sweaty guy, and I'm afraid any BTU will be problematic if they aren't user servicable.  Serviceability == $$$.
 
-A high quality 44mm trackball (smoother and a little heftier than the 55mm stock ball) paired with high quality
+A high quality 44mm trackball (smoother and a little heftier than the 45mm stock ball) paired with high quality
 steel MR105 roller bearings at an 80 degree angle are now on top of the list.  They're easy to procure,
 have really well priced units with high tolerances, and are used by a lot of fisherman in their casting reels.
 Fisherman obsessed with casting distance are ever so picky about their bearings, and I'm hopping on that bandwagon,
@@ -44,6 +44,6 @@ Materials Needed:
   7) Black countersunk screws (8 M2x8mm and 3 M2x16mm).  A [set like this](https://www.amazon.ca/dp/B07NZ3VSFX) is quite useful...
   8) [Rubber Antislip Dots](https://www.amazon.ca/dp/B0BZBXJ5Y8?th=1) for button tops and a non-slip base.  Different shapes for different primary buttons help with feel.
   9) A 3D Printer.
-  10) A high quality 44mm ultra smooth trackball is ideal for roller bearings, but the 45mm stock ball does work, just not as well.  I currently use a [44mm unit](https://www.amazon.ca/dp/B0BQV1X86B).  A heavy [55mm trackball]() 'feels' the best, but is a bit ungainly with the current button heights.
+  10) A high quality 44mm ultra smooth trackball is ideal for roller bearings, but the 45mm stock ball does work, just not as well.  I currently use a [44mm unit](https://www.amazon.ca/dp/B0BQV1X86B).
   11) If you're willing to try... [SP12 BTUs](https://www.aliexpress.com/item/1005008220158916.html?spm=a2g0o.order_list.order_list_main.23.18df1802t6H6VG) : I believe most of the generic SP12 BTUs on Aliexpress are the same, but be aware that there are higher priced stainless steel versions.
 
