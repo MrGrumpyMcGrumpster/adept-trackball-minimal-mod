@@ -15,7 +15,7 @@ a sweaty guy, and I'm afraid any BTU will be problematic if they aren't user ser
 
 A high quality 44mm trackball (smoother and a little heftier than the 55mm stock ball) paired with high quality
 steel MR105 roller bearings at an 80 degree angle are now on top of the list.  They're easy to procure,
-have really well priced units with high tolerances, and are used buy a lot of fisherman in their casting reels.
+have really well priced units with high tolerances, and are used by a lot of fisherman in their casting reels.
 Fisherman obsessed with casting distance are ever so picky about their bearings, and I'm hopping on that bandwagon,
 thank you very much.  Idealy though, an 85 degree angle would be even better, but the plate from a 3d printer is just
 too flexible.  A CNC machined aluminum mount might be in the books for a future date, perhaps in anodized black.
@@ -25,7 +25,8 @@ You should really have some extra Omron D2LS-21 switches as using the existing o
 can be hit or miss.  You'll also need to cut the two little locating nubs off the bottom of the switch.  They
 should simply push right into the bottom plate.  
 
-Full instructions coming soon, but the images are all you need to figure it out really.
+The images are all you need to figure it out really.  It really is just moving the board over to a newly printed
+case and rewiring the switches.
 
 ![The Minimal Adept Mod1](Minimal_Adept_1.jpg)
 ![The Minimal Adept Mod1](Minimal_Adept_2.jpg)
