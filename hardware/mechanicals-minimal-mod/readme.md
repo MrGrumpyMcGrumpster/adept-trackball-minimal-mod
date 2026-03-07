@@ -44,6 +44,6 @@ Materials Needed:
   7) Black countersunk screws (8 M2x8mm and 3 M2x16mm).  A [set like this](https://www.amazon.ca/dp/B07NZ3VSFX) is quite useful...
   8) [Rubber Antislip Dots](https://www.amazon.ca/dp/B0BZBXJ5Y8?th=1) for button tops and a non-slip base.  Different shapes for different primary buttons help with feel.
   9) A 3D Printer.
-  10) A high quality 44mm ultra smooth trackball is ideal for roller bearings, but the 45mm stock ball does work, just not as well.  I currently use a [44mm unit](https://www.amazon.ca/dp/B0BQV1X86B).
+  10) A high quality 44mm ultra smooth trackball is ideal for roller bearings.  I currently use a [44mm unit](https://www.amazon.ca/dp/B0BQV1X86B) purchased from Amazon.
   11) If you're willing to try... [SP12 BTUs](https://www.aliexpress.com/item/1005008220158916.html?spm=a2g0o.order_list.order_list_main.23.18df1802t6H6VG) : I believe most of the generic SP12 BTUs on Aliexpress are the same, but be aware that there are higher priced stainless steel versions.
 
