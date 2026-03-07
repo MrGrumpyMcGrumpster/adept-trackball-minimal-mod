@@ -40,9 +40,10 @@ Materials Needed:
   3) 30 AWG stranded connection wire
   4) Soldering equipment, solder, etc...
   5) High quality sealed MR105 roller bearings.  High tolerance Hybrid Ceramic MR105 with a steel outer case seem to work the best.  Full ceramic bearings spin well, but are very noisy.
-  6) Black countersunk screws (8 M2x8mm and 3 M2x16mm).  A [set like this](https://www.amazon.ca/dp/B07NZ3VSFX) is quite useful...
-  7) [Rubber Antislip Dots](https://www.amazon.ca/dp/B0BZBXJ5Y8?th=1) for button tops and a non-slip base.  Different shapes for different primary buttons help with feel.
-  8) A 3D Printer.
-  9) A high quality 44mm ultra smooth trackball is ideal for roller bearings, but the 45mm stock ball works well especially with BTUs.
-  10) If you're willing to try... [SP12 BTUs](https://www.aliexpress.com/item/1005008220158916.html?spm=a2g0o.order_list.order_list_main.23.18df1802t6H6VG) : I believe most of the generic SP12 BTUs on Aliexpress are the same, but be aware that there are higher priced stainless steel versions.
+  6) To hold the roller bearings, I use [M5x20mm grub screws](https://www.amazon.ca/dp/B0DM23GZT3) and [5x8x0.5mm washers](https://www.amazon.ca/dp/B0C53ZS4Q5) to keep the rolling surface from rubbing against the sides of the mount.
+  7) Black countersunk screws (8 M2x8mm and 3 M2x16mm).  A [set like this](https://www.amazon.ca/dp/B07NZ3VSFX) is quite useful...
+  8) [Rubber Antislip Dots](https://www.amazon.ca/dp/B0BZBXJ5Y8?th=1) for button tops and a non-slip base.  Different shapes for different primary buttons help with feel.
+  9) A 3D Printer.
+  10) A high quality 44mm ultra smooth trackball is ideal for roller bearings, but the 45mm stock ball does work, just not as well.  I currently use a [44mm unit](https://www.amazon.ca/dp/B0BQV1X86B).  A heavy [55mm trackball]() 'feels' the best, but is a bit ungainly with the current button heights.
+  11) If you're willing to try... [SP12 BTUs](https://www.aliexpress.com/item/1005008220158916.html?spm=a2g0o.order_list.order_list_main.23.18df1802t6H6VG) : I believe most of the generic SP12 BTUs on Aliexpress are the same, but be aware that there are higher priced stainless steel versions.
 
